@@ -1,0 +1,7 @@
+.card {
+  /* Your card styles here */
+}
+
+.card:hover {
+  display: none;
+}
